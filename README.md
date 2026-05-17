@@ -1,4 +1,3 @@
-````markdown
 # SentinelFlow AI
 
 **Enterprise-style AI Engineering platform for FinTech risk operations, multi-agent workflow orchestration, policy-grounded decisioning, human review, and durable workflow recovery.**
