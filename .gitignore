@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# Virtual environment
+venv/
+.env
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# IDE
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Alembic cache
+alembic/__pycache__/
+alembic/versions/__pycache__/
+
+# Logs
+*.log
+
+# Generated project data
+rag/vector_store/
+data/synthetic/
